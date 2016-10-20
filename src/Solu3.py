@@ -33,7 +33,7 @@ class Solution(object):
         			maxStr = curStr
         		else:
         			continue
-        return maxStr
+        return maxLen
 
 
 if __name__ == '__main__':
